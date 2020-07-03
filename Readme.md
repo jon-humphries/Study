@@ -1,0 +1,1 @@
+This repo contains my study notes for DevNet Associate Exam.
