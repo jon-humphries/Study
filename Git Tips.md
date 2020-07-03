@@ -2,9 +2,10 @@
 
 ### Create Initial Git Repo
 
-**Logon to GitHub and Create a new repo then:**
+**From the new directory, Logon to GitHub and Create a new repo then:**
 
-
+	mkdir etc or cd to directory you want to add
+	
 	echo "# Study" >> README.md
 	git init
 	git add README.md
