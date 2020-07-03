@@ -44,7 +44,7 @@ The Above command maps local dir with docker directory then runs commands within
 
 **Interactive Bash – Helps with troubleshooting**
 	
-	docker run -it cxe bash
+	docker run -it cxe bash or docker run -it cxe 
 	docker run -v ${PWD}:/home/run -it cxe bash
 	
 
